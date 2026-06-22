@@ -1,0 +1,4 @@
+{
+  "parent": "block/cube_all",
+  "textures": { "all": "onepiececraft:block/fools_gold_ore" }
+}

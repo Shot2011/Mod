@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["FND", "FN ", "S  "],
+  "key": {
+    "F": { "item": "onepiececraft:fools_gold_ingot" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "S": { "item": "minecraft:blaze_rod" }
+  },
+  "result": { "item": "onepiececraft:yoru", "count": 1 }
+}

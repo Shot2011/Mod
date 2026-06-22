@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NNN", " S ", " S "],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "onepiececraft:bisento", "count": 1 }
+}

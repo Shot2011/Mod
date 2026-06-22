@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="MIT"
+issueTrackerURL="https://github.com/onepiececraft/issues"
+
+[[mods]]
+modId="onepiececraft"
+version="1.0.0"
+displayName="One Piece Craft"
+description='''
+A complete One Piece mod for Minecraft 1.21.1!
+Devil Fruits, Races, Factions, Weapons, NPCs and much more!
+'''
+logoFile="onepiececraft.png"
+authors="OnePieceCraft Team"
+
+[[dependencies.onepiececraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[52.0.33,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.onepiececraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"

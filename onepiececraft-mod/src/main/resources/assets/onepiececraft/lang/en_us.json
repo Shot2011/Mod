@@ -1,0 +1,47 @@
+{
+  "itemGroup.onepiececraft": "One Piece Craft",
+
+  "item.onepiececraft.gomu_gomu_fruit": "Gomu Gomu no Mi",
+  "item.onepiececraft.mera_mera_fruit": "Mera Mera no Mi",
+  "item.onepiececraft.hie_hie_fruit": "Hie Hie no Mi",
+  "item.onepiececraft.gura_gura_fruit": "Gura Gura no Mi",
+  "item.onepiececraft.ope_ope_fruit": "Ope Ope no Mi",
+  "item.onepiececraft.yami_yami_fruit": "Yami Yami no Mi",
+  "item.onepiececraft.pika_pika_fruit": "Pika Pika no Mi",
+  "item.onepiececraft.suna_suna_fruit": "Suna Suna no Mi",
+  "item.onepiececraft.goro_goro_fruit": "Goro Goro no Mi",
+  "item.onepiececraft.tori_tori_fruit": "Tori Tori no Mi (Phoenix)",
+
+  "item.onepiececraft.katana": "Katana",
+  "item.onepiececraft.wado_ichimonji": "Wado Ichimonji",
+  "item.onepiececraft.sandai_kitetsu": "Sandai Kitetsu",
+  "item.onepiececraft.shusui": "Shusui",
+  "item.onepiececraft.nidai_kitetsu": "Nidai Kitetsu",
+  "item.onepiececraft.bisento": "Bisento",
+  "item.onepiececraft.yoru": "Yoru - Black Blade",
+
+  "item.onepiececraft.fools_gold_nugget": "Fool's Gold Nugget",
+  "item.onepiececraft.fools_gold_ingot": "Fool's Gold Ingot",
+
+  "block.onepiececraft.fools_gold_ore": "Fool's Gold Ore",
+  "block.onepiececraft.deepslate_fools_gold_ore": "Deepslate Fool's Gold Ore",
+
+  "entity.onepiececraft.marine": "Marine Soldier",
+  "entity.onepiececraft.pirate": "Pirate Crewmember",
+
+  "effect.onepiececraft.devil_fruit_weakness": "Devil Fruit Weakness",
+  "effect.onepiececraft.haki_power": "Haki Power",
+  "effect.onepiececraft.sulong_form": "Sulong Form",
+  "effect.onepiececraft.immortality_brief": "Brief Immortality",
+
+  "key.onepiececraft.fruit_attack_1": "Fruit Attack 1",
+  "key.onepiececraft.fruit_attack_2": "Fruit Attack 2",
+  "key.onepiececraft.fruit_attack_3": "Fruit Attack 3",
+  "key.onepiececraft.fruit_attack_4": "Fruit Attack 4",
+  "key.onepiececraft.fruit_attack_5": "Fruit Attack 5",
+  "key.onepiececraft.fruit_attack_6": "Fruit Attack 6",
+  "key.onepiececraft.open_menu": "Open OPC Menu (G)",
+  "key.onepiececraft.race_ability_1": "Race Ability 1 (R)",
+  "key.onepiececraft.race_ability_2": "Race Ability 2 (F)",
+  "key.categories.onepiececraft": "One Piece Craft"
+}

@@ -1,0 +1,47 @@
+{
+  "itemGroup.onepiececraft": "One Piece Craft",
+
+  "item.onepiececraft.gomu_gomu_fruit": "Gomu Gomu no Mi",
+  "item.onepiececraft.mera_mera_fruit": "Mera Mera no Mi",
+  "item.onepiececraft.hie_hie_fruit": "Hie Hie no Mi",
+  "item.onepiececraft.gura_gura_fruit": "Gura Gura no Mi",
+  "item.onepiececraft.ope_ope_fruit": "Ope Ope no Mi",
+  "item.onepiececraft.yami_yami_fruit": "Yami Yami no Mi",
+  "item.onepiececraft.pika_pika_fruit": "Pika Pika no Mi",
+  "item.onepiececraft.suna_suna_fruit": "Suna Suna no Mi",
+  "item.onepiececraft.goro_goro_fruit": "Goro Goro no Mi",
+  "item.onepiececraft.tori_tori_fruit": "Tori Tori no Mi (Fênix)",
+
+  "item.onepiececraft.katana": "Katana",
+  "item.onepiececraft.wado_ichimonji": "Wado Ichimonji",
+  "item.onepiececraft.sandai_kitetsu": "Sandai Kitetsu",
+  "item.onepiececraft.shusui": "Shusui",
+  "item.onepiececraft.nidai_kitetsu": "Nidai Kitetsu",
+  "item.onepiececraft.bisento": "Bisento",
+  "item.onepiececraft.yoru": "Yoru - Lâmina Negra",
+
+  "item.onepiececraft.fools_gold_nugget": "Pepita de Ouro de Tolo",
+  "item.onepiececraft.fools_gold_ingot": "Lingote de Ouro de Tolo",
+
+  "block.onepiececraft.fools_gold_ore": "Minério de Ouro de Tolo",
+  "block.onepiececraft.deepslate_fools_gold_ore": "Minério de Ouro de Tolo Profundo",
+
+  "entity.onepiececraft.marine": "Soldado da Marinha",
+  "entity.onepiececraft.pirate": "Membro de Tripulação Pirata",
+
+  "effect.onepiececraft.devil_fruit_weakness": "Fraqueza da Fruta do Diabo",
+  "effect.onepiececraft.haki_power": "Poder do Haki",
+  "effect.onepiececraft.sulong_form": "Forma Sulong",
+  "effect.onepiececraft.immortality_brief": "Imortalidade Breve",
+
+  "key.onepiececraft.fruit_attack_1": "Ataque da Fruta 1",
+  "key.onepiececraft.fruit_attack_2": "Ataque da Fruta 2",
+  "key.onepiececraft.fruit_attack_3": "Ataque da Fruta 3",
+  "key.onepiececraft.fruit_attack_4": "Ataque da Fruta 4",
+  "key.onepiececraft.fruit_attack_5": "Ataque da Fruta 5",
+  "key.onepiececraft.fruit_attack_6": "Ataque da Fruta 6",
+  "key.onepiececraft.open_menu": "Abrir Menu OPC (G)",
+  "key.onepiececraft.race_ability_1": "Habilidade da Raça 1 (R)",
+  "key.onepiececraft.race_ability_2": "Habilidade da Raça 2 (F)",
+  "key.categories.onepiececraft": "One Piece Craft"
+}

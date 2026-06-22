@@ -1,0 +1,11 @@
+{
+  "type": "onepiececraft:fruit_injector",
+  "conditions": [
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        { "condition": "minecraft:location_check", "predicate": {} }
+      ]
+    }
+  ]
+}

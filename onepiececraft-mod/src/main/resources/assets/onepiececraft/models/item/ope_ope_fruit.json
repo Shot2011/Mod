@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "onepiececraft:item/ope_ope_fruit" }
+}

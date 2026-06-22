@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "onepiececraft:fools_gold_ingot" }
+  ],
+  "result": { "item": "onepiececraft:fools_gold_nugget", "count": 9 }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["NNN", "NNN", "NNN"],
+  "key": { "N": { "item": "onepiececraft:fools_gold_nugget" } },
+  "result": { "item": "onepiececraft:fools_gold_ingot", "count": 1 }
+}
